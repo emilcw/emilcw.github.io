@@ -1,0 +1,58 @@
+# Jekyll build and cache directories
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-assets-cache/
+.asset-cache/
+
+# Ignore the directory for local files during development
+local/
+
+# Gemfile.lock (should be committed for GitHub Pages, but often ignored for local dev)
+# Gemfile.lock
+
+# Ignore files created by npm
+node_modules/
+package-lock.json
+yarn.lock
+
+# Ignore the vendor file at root level and bundle for alternative installation
+/vendor/
+.bundle/
+
+# Docker related files
+.dockerignore
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# OS specific files
+Thumbs.db
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Log files
+*.log
+log/
+tmp/
+
+# Environment files
+.env
+.env.local
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Temporary files
+*.tmp
+*.temp
