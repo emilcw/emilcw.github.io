@@ -22,6 +22,22 @@ Courses taught, mentoring, and master's thesis supervision.
 
 See all [Teaching](/teaching/)
 
+## PhD Coursework
+
+<!-- List PhD courses you have taken -->
+
+### Course 1
+
+**Course Name:** <!-- Add course name -->
+
+**Institution:** <!-- Add institution -->
+
+**Year:** <!-- Add year -->
+
+**ECTS/Credits:** <!-- Add credits -->
+
+**Description:** <!-- Add course description -->
+
 ## Awards & Honors
 
 <!-- Add awards and honors here -->
