@@ -56,6 +56,37 @@ function initCountriesMap() {
     fetch('https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson')
         .then(response => response.json())
         .then(data => {
+            // Count total countries and visited countries
+            var totalCountries = data.features.length;
+            var visitedCount = 0;
+            
+            // Count visited countries
+            data.features.forEach(function(feature) {
+                if (visitedCountries.includes(feature.id)) {
+                    visitedCount++;
+                }
+            });
+            
+            // Update progress bar
+            var percentage = Math.round((visitedCount / totalCountries) * 100);
+            var countElement = document.getElementById('countries-count');
+            var percentageElement = document.getElementById('countries-percentage');
+            var progressBar = document.getElementById('countries-progress-bar');
+            var progressText = document.getElementById('countries-progress-text');
+            
+            if (countElement) {
+                countElement.textContent = visitedCount + ' / ' + totalCountries + ' countries visited';
+            }
+            if (percentageElement) {
+                percentageElement.textContent = percentage + '%';
+            }
+            if (progressBar) {
+                progressBar.style.width = percentage + '%';
+            }
+            if (progressText) {
+                progressText.textContent = percentage + '%';
+            }
+            
             // Style function for countries
             function getStyle(feature) {
                 var countryCode = feature.id;

@@ -16,13 +16,21 @@ author_profile: true
 
 ## Global Experience
 
-### Countries Lived In
-
-<!-- List countries where you have lived -->
-
 ### Countries Visited
 
 <!-- List countries you have visited -->
+
+<div id="countries-progress" style="margin: 20px 0;">
+    <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+        <span id="countries-count" style="color: var(--global-text-color);">Loading...</span>
+        <span id="countries-percentage" style="color: var(--global-text-color);">0%</span>
+    </div>
+    <div style="width: 100%; height: 30px; background-color: #333; border-radius: 4px; overflow: hidden; border: 1px solid #555;">
+        <div id="countries-progress-bar" style="height: 100%; background-color: #4caf50; width: 0%; transition: width 0.5s ease; display: flex; align-items: center; justify-content: center;">
+            <span id="countries-progress-text" style="color: #fff; font-weight: bold; font-size: 0.9em;"></span>
+        </div>
+    </div>
+</div>
 
 <div id="countries-map" style="height: 500px; width: 100%; margin: 20px 0; border: 1px solid #333; border-radius: 4px;"></div>
 
