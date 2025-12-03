@@ -1,4 +1,19 @@
 # Academic Pages
+
+# TODO
+- Fill in all parts
+- Change font to something more stylish
+- add in links
+- add in picture
+
+
+
+
+
+
+
+
+
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
 ![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
