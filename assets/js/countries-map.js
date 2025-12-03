@@ -58,7 +58,7 @@ function initCountriesMap() {
         .then(data => {
             // Style function for countries
             function getStyle(feature) {
-                var countryCode = feature.properties.ISO_A3;
+                var countryCode = feature.id;
                 var isVisited = visitedCountries.includes(countryCode);
                 
                 return {
@@ -75,8 +75,8 @@ function initCountriesMap() {
             geoJsonLayer = L.geoJSON(data, {
                 style: getStyle,
                 onEachFeature: function(feature, layer) {
-                    var countryName = feature.properties.NAME || feature.properties.ADMIN;
-                    var countryCode = feature.properties.ISO_A3;
+                    var countryName = feature.properties.name || feature.properties.NAME || feature.properties.ADMIN;
+                    var countryCode = feature.id;
                     var isVisited = visitedCountries.includes(countryCode);
                     
                     layer.bindPopup(
