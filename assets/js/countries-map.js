@@ -62,7 +62,7 @@ function initCountriesMap() {
                 var isVisited = visitedCountries.includes(countryCode);
                 
                 return {
-                    fillColor: isVisited ? '#52adc8' : '#333',
+                    fillColor: isVisited ? '#4caf50' : '#333',
                     weight: 1,
                     opacity: 1,
                     color: '#555',
@@ -81,7 +81,7 @@ function initCountriesMap() {
                     
                     layer.bindPopup(
                         '<strong>' + countryName + '</strong><br>' +
-                        (isVisited ? '<span style="color: #52adc8;">✓ Visited</span>' : 'Not visited')
+                        (isVisited ? '<span style="color: #4caf50;">✓ Visited</span>' : 'Not visited')
                     );
                     
                     layer.on({
