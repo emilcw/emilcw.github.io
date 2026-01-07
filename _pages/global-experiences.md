@@ -1,24 +1,9 @@
 ---
-permalink: /languages/
-title: "Languages & Global Experience"
+permalink: /global-experience/
+title: "Global Experience"
 author_profile: true
 ---
-
-## Languages Spoken
-
-<!-- Add languages you speak and proficiency levels -->
-
-### Language 1
-
-**Proficiency:** <!-- Add proficiency level (e.g., Native, Fluent, Conversational, Basic) -->
-
-**Description:** <!-- Add any additional details -->
-
-## Global Experience
-
-### Countries Visited
-
-<!-- List countries you have visited -->
+I try to keep track of countries I have visited, just for fun :)
 
 <div id="countries-progress" style="margin: 20px 0;">
     <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">

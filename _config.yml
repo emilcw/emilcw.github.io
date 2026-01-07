@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Emil / Portfolio"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Emil"
 description              : &description "Emil's akademiska portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,23 +24,23 @@ repository               : "emilcw/emilcw.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Emil"
+  name             : "Emil Wiman"
   pronouns         : # example: "she/her"  
-  bio              : "Forskningsprofil och akademiker"
-  location         : "Sverige"
-  employer         : "Universitet"
+  bio              : "PhD-student in AI and Robotics"
+  location         : "Linköping, Sweden"
+  employer         : "Linköping University"
   uri              : # URL
-  email            : "emil@example.org" 
+  email            : "emil.wiman@liu.se" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=KQuaAPgAAAAJ&hl=sv"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0005-8841-181X"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   researchgate     : # URL
   scopus           : # URL
 
@@ -48,13 +48,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "emilcw"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          :
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "emilwiman"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

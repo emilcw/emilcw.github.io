@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Short CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,79 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Ph.D. in Computer Science** (ongoing)  
+*Linköping University, Sweden*  
+Aug 2023 – Present  
+- WASP (Wallenberg AI, Autonomous Systems and Software Program) PhD student
+- Research focus: Safe motion planning, 3D exploration planning, autonomous systems
+- Supervisors: Prof. Fredrik Heintz and Mattias Tiger
+- Connected to WARA-PS (WASP Research Arena for Public Safety)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**M.Sc. in Autonomous Systems**  
+*Linköping University, Sweden*  
+2021 – 2023  
+- Thesis: "Autonomous 3D Exploration with Dynamic Obstacles" (with Ludvig Widén)
+- **Award:** Best Thesis by Swedish Artificial Intelligence Society (SAIS)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**B.Sc. in Computer Science and Engineering**  
+*Linköping University, Sweden*  
+2018 – 2021  
+- Thesis: "Virtual Gimbal Camera: Digitalization of a Mechanical Gimbal System"
+- Project developed in collaboration with Swedish Sea Rescue Society
+- Led to spin-off company [Synclair Vision](https://www.synclairvision.com/)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+---
+
+## Work Experience
+
+**Doctoral Researcher**  
+*Reasoning and Learning Lab (ReaL), Linköping University*  
+Aug 2023 – Present  
+- Conducting research in AI and robotics.
+- Published papers at top robotics conferences (ICRA, IROS)
+- Developing algorithms for autonomous 3D exploration and safe motion planning.
+
+**Lock Keeper**  
+*Göta kanal / AB Göta kanalbolag, Motala, Sweden*  
+Summers 2018 – 2021  
+- Operated locks along the historic Göta Canal
+- Assisted boat traffic and provided visitor service
+
+**Cleaner**  
+*AB Stångåstaden, Linköping, Sweden*  
+June – August 2017  
+
+---
+
+## Voluntary Work
+
+**Math Coach**  
+*aHead Math Coaching*  
+Aug 2019 – June 2020  
+- Tutored students in mathematics
+
+**Blood Donor**  
+*Swedish Blood Donor Registry*  
+Jan 2021 – Present  
+
+---
+
+## Licences and Certificates
+
+- Driver's License (Class B)
+- Green Card (Golf)
+- Open Water Diver (PADI/SSI)
+- Inshore Yachtmaster Diploma
+
+---
+
+## Languages
+
+| Language | Proficiency |
+|----------|-------------|
+| Swedish  | Native      |
+| English  | Fluent      |
+| French | Basic | 
+
