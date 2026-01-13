@@ -60,6 +60,7 @@ See all [Publications](/publications/)
 ### Master Thesis Supervision
 - Sebastian Klasson, Line execution ordering of a coverage path planning algorithm for autonomous lawn mowers. Paused.
 - Lukas Moe, Multi-agent 3D exploration in dynamic environments, 2025. 
+- William Jacobsson, Collision-free Neural Path Planning for Industrial Manipulator Robots, (Co-supervisor) 2025.
 
 ## Awards
 - SAIS Master Thesis Award 2024 for Best Master Thesis.
