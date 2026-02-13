@@ -61,6 +61,8 @@ See all [Publications](/publications/)
 - Sebastian Klasson, Line execution ordering of a coverage path planning algorithm for autonomous lawn mowers. Paused.
 - Lukas Moe, Multi-agent 3D exploration in dynamic environments, 2025. 
 - William Jacobsson, Collision-free Neural Path Planning for Industrial Manipulator Robots, (Co-supervisor) 2025.
+- Mathias Ahlgren and Mårten Saltin, Continuous Learning of Language Model-Based Agents with a Focus on Research Agents, 2026
+- Tiantian Liang, Safe Reinforcement Learning using Gaussian Processes, 2026
 
 ## Awards
 - SAIS Master Thesis Award 2024 for Best Master Thesis.
