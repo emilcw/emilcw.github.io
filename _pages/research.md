@@ -13,7 +13,7 @@ author_profile: true
 
 ## Publications
 
-See all [Publications](/publications/)
+Please see, [Publications](/publications/)
 
 ## PhD Coursework
 - Autonomous Systems, 6hp (WASP)
@@ -27,6 +27,8 @@ See all [Publications](/publications/)
 - WASP Summer School on Rethinking and Rescaling LLMs 2025, 1,5hp (WASP)
 - WASP Project Course, 6hp (WASP)
 - Fundamentals for PhD Studies in Science and Engineering, 6hp (LiU)
+- Pitch and presentation course, 3hp
+- Deep Learning for Natural Language Processing, 6hp (WASP)
 
 ## Talks, Presentations & Travel
 - WARA-PS Demonstration Week. Sep, 2023.
@@ -56,13 +58,12 @@ See all [Publications](/publications/)
     - Sebastian: Turtlebot4 Point Cloud and 360 camera integration.
     - Axel: Prediction of pedestrian movement using Trajnet++ and Atlas benchmark.
 
-
 ### Master Thesis Supervision
 - Sebastian Klasson, Line execution ordering of a coverage path planning algorithm for autonomous lawn mowers. Paused.
 - Lukas Moe, Multi-agent 3D exploration in dynamic environments, 2025. 
 - William Jacobsson, Collision-free Neural Path Planning for Industrial Manipulator Robots, (Co-supervisor) 2025.
 - Mathias Ahlgren and Mårten Saltin, Continuous Learning of Language Model-Based Agents with a Focus on Research Agents, 2026
-- Tiantian Liang, Safe Reinforcement Learning using Gaussian Processes, 2026
+- Tiantian Liang, Enhancing Safety of RL based UAV Navigation under Execution Level Dynamics Uncertainty, 2026
 
 ## Awards
 - SAIS Master Thesis Award 2024 for Best Master Thesis.

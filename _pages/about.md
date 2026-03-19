@@ -13,9 +13,9 @@ He joined Linköping University as a WASP Ph.D. student in August 2023 after obt
 
 ## Personal Interests
 
-Outside of research, I'm passionate about staying active and pushing my limits through CrossFit, climbing, running, cycling, swimming, skiing, and hiking. I love exploring new places and cultures through traveling, and few things beat a great meal paired with good drinks in good company.
+Outside of research, he is passionate about staying active through CrossFit, climbing, running, cycling, swimming, skiing, and hiking. He also enjoys travel paired with good food and drinks. When winding down, you might find him playing the guitar, catching a play or an art exhibition or why not binging seriers/video games.
 
-When I'm winding down, you'll often find me enjoying music, catching a play or art exhibition, binge-watching a great series, or diving into a video game. It's all about balance!
+Life is about balance.
 
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
   <img src="/images/personal1.jpg" alt="Personal" style="width: 30%; max-width: 250px; border-radius: 4px;">
