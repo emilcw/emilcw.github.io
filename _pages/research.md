@@ -46,6 +46,7 @@ Please see, [Publications](/publications/)
 - WARA-PS Demonstration Week. Sep, 2025.
 - WASP Study Trip, Los Angeles (WinstonHill, USC, JPL, (NASA), UC Irvine, Syntiant Corp, UCLA, Caltech.). Sep, 2025.
 - IROS25. Oral and Poster presentation for accepted paper. Oct, 2025, Hangzhou, China.
+- Safe and Scalable 3D Exploration in Dynamic and Uncertain Environments. 60%-seminar. April 2026.
 
 ## Teaching
 
@@ -55,15 +56,15 @@ Please see, [Publications](/publications/)
 - TDDE13 Multi-Agent Systems, TA
 - TDDD99 Professionalism for Engineers, TA
 - AI Academy
-    - Sebastian: Turtlebot4 Point Cloud and 360 camera integration.
-    - Axel: Prediction of pedestrian movement using Trajnet++ and Atlas benchmark.
+    - Sebastian: Turtlebot4 Point Cloud and 360 camera integration. He is now working at [Dyno Robotics](https://dynorobotics.se/).
+    - Axel: Prediction of pedestrian movement using Trajnet++ and Atlas benchmark. He is now working on [Andon Labs](https://andonlabs.com/).
 
 ### Master Thesis Supervision
-- Sebastian Klasson, Line execution ordering of a coverage path planning algorithm for autonomous lawn mowers. Paused.
-- Lukas Moe, Multi-agent 3D exploration in dynamic environments, 2025. 
-- William Jacobsson, Collision-free Neural Path Planning for Industrial Manipulator Robots, (Co-supervisor) 2025.
-- Mathias Ahlgren and Mårten Saltin, Continuous Learning of Language Model-Based Agents with a Focus on Research Agents, 2026
-- Tiantian Liang, Enhancing Safety of RL based UAV Navigation under Execution Level Dynamics Uncertainty, 2026
+- Sebastian Klasson, Line execution ordering of a coverage path planning algorithm for autonomous lawn mowers. Paused. Collab with [Husqvarna](https://www.husqvarna.com/se/).
+- Lukas Moe, Multi-agent 3D exploration in dynamic environments, 2025. Internal.
+- William Jacobsson, Collision-free Neural Path Planning for Industrial Manipulator Robots, (Co-supervisor) 2025. Collab with [Enodo Robotics](https://enodorobotics.com/).
+- Mathias Ahlgren and Mårten Saltin, Continuous Learning of Language Model-Based Agents with a Focus on Research Agents, 2026. Collab with [find my factory](https://www.findmyfactory.eu/).
+- Tiantian Liang, Enhancing Safety of RL based UAV Navigation under Execution Level Dynamics Uncertainty, 2026. Internal.
 
 ## Awards
 - SAIS Master Thesis Award 2024 for Best Master Thesis.
