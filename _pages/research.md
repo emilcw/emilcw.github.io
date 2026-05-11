@@ -49,6 +49,9 @@ Please see, [Publications](/publications/)
 - Presentation WASP Project Course,Human-Aware Robot Navigation for Exploration Tasks. WASP Winter Conference. Jan, 2025.
 - Safe and Scalable 3D Exploration in Dynamic and Uncertain Environments. 60%-seminar. April 2026.
 
+## Reviewer
+-  Reviewed for IROS2026.
+
 ## Teaching
 
 ### Courses
