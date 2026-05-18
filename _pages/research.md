@@ -46,7 +46,7 @@ Please see, [Publications](/publications/)
 - WARA-PS Demonstration Week. Sep, 2025.
 - WASP Study Trip, Los Angeles (WinstonHill, USC, JPL, (NASA), UC Irvine, Syntiant Corp, UCLA, Caltech.). Sep, 2025.
 - IROS25. Oral and Poster presentation for accepted paper. Oct, 2025, Hangzhou, China.
-- Presentation WASP Project Course,Human-Aware Robot Navigation for Exploration Tasks. WASP Winter Conference. Jan, 2025.
+- Presentation WASP Project Course,Human-Aware Robot Navigation for Exploration Tasks. WASP Winter Conference. Jan, 2026.
 - Safe and Scalable 3D Exploration in Dynamic and Uncertain Environments. 60%-seminar. April 2026.
 
 ## Reviewer
