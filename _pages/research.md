@@ -29,6 +29,8 @@ Please see, [Publications](/publications/)
 - Fundamentals for PhD Studies in Science and Engineering, 6hp (LiU)
 - Pitch and presentation course, 3hp
 - Deep Learning for Natural Language Processing, 6hp (WASP)
+- AI-Assisted Research, 6hp (LiU)
+
 
 ## Talks, Presentations & Travel
 - WARA-PS Demonstration Week. Sep, 2023.
@@ -64,7 +66,7 @@ Please see, [Publications](/publications/)
     - Axel: Prediction of pedestrian movement using Trajnet++ and Atlas benchmark. He is now working on [Andon Labs](https://andonlabs.com/).
 
 ### Master Thesis Supervision
-- Sebastian Klasson, Line execution ordering of a coverage path planning algorithm for autonomous lawn mowers. Paused. Collab with [Husqvarna](https://www.husqvarna.com/se/).
+- Sebastian Klasson, Line execution ordering of a coverage path planning algorithm for autonomous lawn mowers. 2024. Collab with [Husqvarna](https://www.husqvarna.com/se/).
 - Lukas Moe, Multi-agent 3D exploration in dynamic environments, 2025. Internal.
 - William Jacobsson, Collision-free Neural Path Planning for Industrial Manipulator Robots, (Co-supervisor) 2025. Collab with [Enodo Robotics](https://enodorobotics.com/).
 - Mathias Ahlgren and Mårten Saltin, Continuous Learning of Language Model-Based Agents with a Focus on Research Agents, 2026. Collab with [find my factory](https://www.findmyfactory.eu/).
