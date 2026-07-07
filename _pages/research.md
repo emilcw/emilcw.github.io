@@ -52,7 +52,7 @@ Please see, [Publications](/publications/)
 - Safe and Scalable 3D Exploration in Dynamic and Uncertain Environments. 60%-seminar. April 2026.
 
 ## Reviewer
--  Reviewer for IROS and RA-L.
+-  Reviewer for IROS, RA-L and ARR.
 
 ## Teaching
 
