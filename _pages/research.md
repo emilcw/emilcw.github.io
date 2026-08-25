@@ -59,7 +59,7 @@ Please see, [Publications](/publications/)
 ### Courses
 - TDDD92, Artificial Intelligence - Project, TA
 - TDDE19 Advanced Project Course - AI and Machine Learning, TA
-- TDDE13 Multi-Agent Systems, TA
+- TDDE13 Multi-Agent Systems, TA (Inactive)
 - TDDD99 Professionalism for Engineers, TA
 - AI Academy
     - Sebastian: Turtlebot4 Point Cloud and 360 camera integration. He is now working at [Dyno Robotics](https://dynorobotics.se/).

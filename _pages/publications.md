@@ -119,6 +119,70 @@ Publications by categories in reversed chronological order.
 ## Papers
 {: .year-header}
 
+### 2026
+
+<div class="pub-item">
+  <div class="pub-thumbnail">
+    <img src="/images/saga_preview.png" alt="SAGA Preview" onerror="this.style.display='none'">
+  </div>
+  <div class="pub-content">
+    <div class="pub-title">SAGA: Score-Weighted Adaptive Generation Alignment for Low-Resource Nordic Language Models</div>
+    <div class="pub-authors">Hoda Fakharzadehjahromy, <strong>Emil Wiman</strong>, Andreas Bueff, Hafsteinn Einarsson, and Fredrik Heintz</div>
+    <div class="pub-venue">arXiv preprint arXiv:2608.06179, 2026</div>
+    <div class="pub-buttons">
+      <a href="javascript:void(0)" onclick="toggleAbstract('saga')" class="pub-btn">Abs</a>
+      <a href="javascript:void(0)" onclick="toggleBibtex('saga')" class="pub-btn">Bib</a>
+      <a href="https://arxiv.org/pdf/2608.06179" class="pub-btn">PDF</a>
+      <a href="https://arxiv.org/abs/2608.06179" class="pub-btn">arXiv</a>
+    </div>
+    <div id="abs-saga" class="pub-abstract">
+      Preference optimisation has proven effective for improving large language models but typically relies on costly human preference annotations. Extending these methods to morphologically rich, low-resource languages remains challenging because such annotations are scarce. We present SAGA (Score-weighted Adaptive Generation Alignment), a parser-guided preference optimisation framework that replaces human labels with dependency-parser supervision. SAGA converts parser judgements into preference pairs for Δ-DPO, combines parser quality with lexical diversity in a composite reward, filters low-information pairs using a reward-gap criterion, and monitors reward hacking to maintain reliable supervision. Across Danish, Icelandic, and Norwegian Bokmål using GPT-SW3-1.3B, SAGA consistently improves grammatical quality without requiring human preference labels. Danish parse success increases from 69.0% to 93.8%, Icelandic achieves a +4.5 percentage-point improvement on an independent Stanza evaluation (three-run mean +3.3 percentage points (pp)) while native speakers prefer SAGA outputs in 80% of pairwise comparisons, and Norwegian Bokmål improves by +28 percentage points. These results demonstrate that parser-derived supervision is a practical alternative to human preference annotation for grammatical alignment in low-resource languages where high-quality dependency parsers are available.
+    </div>
+    <div id="bib-saga" class="pub-bibtex">
+<pre>@misc{fakharzadehjahromy2026saga,
+  title = {SAGA: Score-Weighted Adaptive Generation Alignment for Low-Resource Nordic Language Models},
+  author = {Fakharzadehjahromy, Hoda and Wiman, Emil and Bueff, Andreas and Einarsson, Hafsteinn and Heintz, Fredrik},
+  year = {2026},
+  eprint = {2608.06179},
+  archivePrefix = {arXiv},
+  primaryClass = {cs.LG},
+  url = {https://arxiv.org/abs/2608.06179},
+}</pre>
+    </div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-thumbnail">
+    <img src="/images/daep_sim2real_preview.png" alt="DAEP Sim-to-Real Preview" onerror="this.style.display='none'">
+  </div>
+  <div class="pub-content">
+    <div class="pub-title">From Simulation to Reality: Autonomous 3D Exploration with DAEP on Heterogeneous Robots</div>
+    <div class="pub-authors"><strong>Emil Wiman</strong>, Mariusz Wzorek, Piotr Rudol, Tommy Persson, and Mattias Tiger</div>
+    <div class="pub-venue">In Proceedings of the 8th International Workshop on Robotics Software Engineering (RoSE), 2026</div>
+    <div class="pub-buttons">
+      <a href="javascript:void(0)" onclick="toggleAbstract('daepreal')" class="pub-btn">Abs</a>
+      <a href="javascript:void(0)" onclick="toggleBibtex('daepreal')" class="pub-btn">Bib</a>
+      <a href="https://ceur-ws.org/Vol-4243/paper10.pdf" class="pub-btn">PDF</a>
+    </div>
+    <div id="abs-daepreal" class="pub-abstract">
+      Autonomous 3D exploration in real-world environments remains an open problem in robotics. Exploration in the setting of robotics refers to the concept of a robot being able to independently explore an a priori unknown environment with the goal of building an accurate and complete 3D representation of said environment. Most work in the literature has studied this concept in the static setting, while work in a dynamic context is lacking. However, recent dynamic exploration planners have shown promise in effectively handling complex dynamic environments; nevertheless, most evaluations have been conducted only in simulation. In this work we extend and deploy the Dynamic Autonomous Exploration Planner (DAEP) on multiple robotic platforms in complex real-world environments. We demonstrate that DAEP can be extended to new robotic platforms, making it well-suited for further investigation in collaborative robotics research. We perform real-world experiments to validate our extensions and to provide insights into current advances and limitations.
+    </div>
+    <div id="bib-daepreal" class="pub-bibtex">
+<pre>@inproceedings{wiman2026daepreal,
+  title = {From Simulation to Reality: Autonomous {3D} Exploration with {DAEP} on Heterogeneous Robots},
+  author = {Wiman, Emil and Wzorek, Mariusz and Rudol, Piotr and Persson, Tommy and Tiger, Mattias},
+  booktitle = {Proceedings of the 8th International Workshop on Robotics Software Engineering (RoSE 2026)},
+  series = {CEUR Workshop Proceedings},
+  volume = {4243},
+  year = {2026},
+  publisher = {CEUR-WS.org},
+  url = {https://ceur-ws.org/Vol-4243/paper10.pdf},
+}</pre>
+    </div>
+  </div>
+</div>
+
 ### 2025
 
 <div class="pub-item">
