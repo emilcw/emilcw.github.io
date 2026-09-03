@@ -30,6 +30,7 @@ Please see, [Publications](/publications/)
 - Pitch and presentation course, 3hp
 - Deep Learning for Natural Language Processing, 6hp (WASP)
 - AI-Assisted Research, 6hp (LiU)
+- Robots and AI in Science Fiction: What can we learn for Robotics, Interaction Design and AI, 7.5hp (LiU)
 
 
 ## Talks, Presentations & Travel
